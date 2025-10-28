@@ -116,6 +116,18 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 ---
 
+## 🧪 Exercício Extra – Simulação de Recuperação de Desastre
+
+🎯 *Objetivo: demonstrar o poder da virtualização na recuperação rápida de falhas críticas.*
+
+1. Crie uma VM com Apache e uma página personalizada.
+2. Exporte a VM como `.ova` ou crie um snapshot.
+3. Delete o disco virtual ou corrompa o Apache.
+4. Restaure a VM e valide o retorno da página.
+5. Poste no LinkedIn um print da página restaurada com a hashtag `#ServidorLinuxNaPrática`.
+
+---
+
 ## 📦 Material de Apoio
 
 Todos os comandos, checklists e arquivos complementares estão disponíveis no Google Drive:
