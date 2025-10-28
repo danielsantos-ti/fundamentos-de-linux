@@ -1,4 +1,4 @@
-# 🚀 Servidor Linux na Prática
+# 🚀 Servidores Linux na Prática
 
 Este repositório acompanha o curso publicado no YouTube com foco em fundamentas os conhecimentos básicos em Linux simulando uma infraestrutura real, utilizando virtualbox como ambiente de virtualização. Aqui você encontrará materiais de apoio, comandos comentados, exercícios e documentação para cada etapa do projeto.
 
