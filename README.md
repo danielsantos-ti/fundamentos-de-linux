@@ -19,7 +19,7 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 ### 1. 🧱 Preparação do Ambiente
 
-- Introdução ao Proxmox e virtualização
+- Introdução ao virtualbox e virtualização
 - Verificação de recursos do host (CPU, RAM, disco)
 - Download da ISO oficial do Ubuntu Server LTS
 - Criação e configuração da VM com recursos mínimos
@@ -28,8 +28,8 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 🎯 *Objetivo: preparar o terreno para a instalação do servidor.*
 
 **🧪 Exercício 01:**
-1. Instale o Proxmox em uma máquina ou VM.
-2. Crie uma VM com 2 vCPU, 4GB RAM e 40GB de disco.
+1. Instale o virtualbox em seu computador ou notebook.
+2. Crie uma VM com 1 vCPU, 4GB RAM e 30GB de disco.
 3. Monte a ISO do Ubuntu Server LTS e inicie a instalação.
 4. Poste um print da tela de instalação no LinkedIn com a hashtag `#ServidorLinuxNaPrática`.
 
@@ -71,15 +71,14 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 - Criação e configuração de banco de dados
 - Instalação do GLPI (gestão de ativos e chamados)
-- Instalação de sistema de documentação técnica (DokuWiki, BookStack ou outro)
 - Configuração de backups automáticos
 
 🎯 *Objetivo: aplicar o conhecimento em soluções reais de mercado.*
 
 **🧪 Exercício 04:**
-1. Instale o GLPI e configure o banco.
-2. Escolha uma ferramenta de documentação e instale.
-3. Configure um backup automático com `cron`.
+1. Crie o banco de dados
+2. Adicione um usuário ao banco e atribua as permissões de acesso e uso do banco
+3. Instale o GLPI.
 4. Poste no LinkedIn qual ferramenta escolheu e por quê.
 
 ---
