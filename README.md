@@ -120,7 +120,7 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 Todos os comandos, checklists e arquivos complementares estão disponíveis no Google Drive:
 
-🔗 [Acesse aqui o material de apoio](https://drive.google.com/drive/folder/SEU-LINK-AQUI)
+🔗 [Acesse aqui o material de apoio](https://drive.google.com/drive/folders/1txh9CA1mzWBLe63BD-NWRQ0SAUzgUVx-?usp=sharing)
 
 > Os arquivos estão organizados por módulo, com comandos comentados e passo a passo para acompanhar cada vídeo.
 
