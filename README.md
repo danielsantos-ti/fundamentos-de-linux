@@ -116,8 +116,6 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 ---
 
----
-
 ## 📦 Material de Apoio
 
 Todos os comandos, checklists e arquivos complementares estão disponíveis no Google Drive:
