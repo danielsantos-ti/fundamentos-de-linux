@@ -116,6 +116,18 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 ---
 
+---
+
+## 📦 Material de Apoio
+
+Todos os comandos, checklists e arquivos complementares estão disponíveis no Google Drive:
+
+🔗 [Acesse aqui o material de apoio](https://drive.google.com/drive/folder/SEU-LINK-AQUI)
+
+> Os arquivos estão organizados por módulo, com comandos comentados e passo a passo para acompanhar cada vídeo.
+
+---
+
 ## 🎥 Metodologia no YouTube
 
 - Aulas práticas e passo a passo
