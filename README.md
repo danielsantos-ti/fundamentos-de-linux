@@ -132,3 +132,10 @@ Ao final do curso, o aluno terá um servidor Linux funcional, seguro e com aplic
 ---
 
 **Siga o projeto no LinkedIn e marque seus avanços com a hashtag `#ServidorLinuxNaPrática`!**
+
+## 👤 Conecte-se comigo
+
+Se você está acompanhando este projeto, aplicando os exercícios ou quer compartilhar seu progresso, me marque no LinkedIn!  
+Estou sempre aberto a trocar ideias, tirar dúvidas e acompanhar a evolução dos alunos.
+
+🔗 **Meu perfil profissional:** [Daniel no LinkedIn](https://www.linkedin.com/in/daniel-santos-it/)
