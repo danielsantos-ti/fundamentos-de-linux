@@ -1,6 +1,6 @@
 # 🚀 Servidores Linux na Prática
 
-Este repositório acompanha o curso publicado no YouTube com foco em fundamentas os conhecimentos básicos em Linux simulando uma infraestrutura real, utilizando virtualbox como ambiente de virtualização. Aqui você encontrará materiais de apoio, comandos comentados, exercícios e documentação para cada etapa do projeto.
+Este repositório acompanha o curso publicado no YouTube com foco nos fundamentas de Linux simulando uma infraestrutura real, utilizando virtualbox como ambiente de virtualização. Aqui você encontrará materiais de apoio, comandos comentados, exercícios e documentação para cada etapa do projeto.
 
 ---
 
@@ -48,7 +48,7 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 1. Instale o Ubuntu Server com SSH habilitado.
 2. Configure IP fixo ou DHCP reservado.
 3. Instale `curl`, `wget`, `net-tools`, `vim`.
-4. Poste no LinkedIn o comando usado para configurar o IP e me marque!
+4. Poste no Linkedin a configuração da rede e o acesso remoto via ssh e marque meu nome!
 
 ---
 
@@ -63,7 +63,7 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 **🧪 Exercício 03:**
 1. Instale Apache, PHP e MariaDB.
 2. Crie uma página PHP com `phpinfo()`.
-3. Poste um print da página funcionando no LinkedIn com a hashtag `#ServidorLinuxNaPrática`.
+3. Poste um print da página com o apache funcionando no LinkedIn com a hashtag `#ServidoresLinuxNaPrática` e marque meu nome.
 
 ---
 
@@ -77,9 +77,9 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 **🧪 Exercício 04:**
 1. Crie o banco de dados
-2. Adicione um usuário ao banco e atribua as permissões de acesso e uso do banco
+2. Adicione um usuário ao banco de dados e atribua as permissões de acesso e uso do banco
 3. Instale o GLPI.
-4. Poste no LinkedIn qual ferramenta escolheu e por quê.
+4. Poste no LinkedIn a página do phpmyadmin funcionando, marque meu nome e use a hashtag `#ServidoresLinuxNaPrática`.
 
 ---
 
@@ -96,7 +96,7 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 1. Configure o `ufw` para permitir apenas portas essenciais.
 2. Crie um usuário com acesso restrito.
 3. Configure acesso SSH com chave pública.
-4. Poste no LinkedIn um print do seu `ufw status`.
+4. Poste no LinkedIn um print do seu `ufw status`, marque o meu nome e use a hashtag `#ServidoresLinuxNaPrática`..
 
 ---
 
@@ -124,7 +124,7 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 2. Exporte a VM como `.ova` ou crie um snapshot.
 3. Delete o disco virtual ou corrompa o Apache.
 4. Restaure a VM e valide o retorno da página.
-5. Poste no LinkedIn um print da página restaurada com a hashtag `#ServidorLinuxNaPrática`.
+5. Poste no LinkedIn um print da página restaurada com a hashtag `#ServidoresLinuxNaPrática`.
 
 ---
 
@@ -141,7 +141,7 @@ Todos os comandos, checklists e arquivos complementares estão disponíveis no G
 ## 🎥 Metodologia no YouTube
 
 - Aulas práticas e passo a passo
-- Explicações acessíveis, mesmo para iniciantes
+- Explicações acessíveis e exclusivo para iniciantes
 - Material complementar e comandos comentados
 - Espaço para dúvidas e interação nos comentários
 
@@ -153,7 +153,7 @@ Ao final do curso, o aluno terá um servidor Linux funcional, seguro e com aplic
 
 ---
 
-**Siga o projeto no LinkedIn e marque seus avanços com a hashtag `#ServidorLinuxNaPrática`!**
+**Siga o projeto no LinkedIn e marque seus avanços com a hashtag `#ServidoresLinuxNaPrática`!**
 
 ## 👤 Conecte-se comigo
 
