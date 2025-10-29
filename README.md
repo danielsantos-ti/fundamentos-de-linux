@@ -149,7 +149,9 @@ Todos os comandos, checklists e arquivos complementares estão disponíveis no G
 
 ## 🏁 Resultado Esperado
 
-Ao final do curso, o aluno terá um servidor Linux funcional, seguro e com aplicações reais instaladas, pronto para uso em ambientes corporativos, educacionais ou pessoais.
+Ao final do curso, o aluno terá um servidor Linux funcional, seguro e com aplicações reais instaladas, pronto para uso educacional ou pessoal.
+
+Os conhecimentos aqui adquiridos podem ser aplicados em ambientes corporativos e usamos em ferramentas profissionais como vmware, proxmox, hyper-v e outros.
 
 ---
 
