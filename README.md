@@ -35,7 +35,7 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 ---
 
-### 2. 🖥️ Instalação e Configuração do Ubuntu Server
+### 2. 🖥️ Configuração do Ubuntu Server
 
 - Instalação com SSH habilitado
 - Atualização de pacotes e sistema
