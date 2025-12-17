@@ -37,7 +37,7 @@ Cada módulo possui conteúdo explicativo e um exercício prático para reforça
 
 ### 2. 🖥️ Configuração do Ubuntu Server
 
-- Instalação com SSH habilitado
+- Instalar e configurar o Servidor SSH
 - Atualização de pacotes e sistema
 - Configuração de rede (IP fixo ou DHCP reservado)
 - Instalação de ferramentas básicas para administração
